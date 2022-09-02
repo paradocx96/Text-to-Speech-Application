@@ -1,14 +1,14 @@
 {
-  "name": "electron-quick-start",
+  "name": "text-to-speech-application",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Text-to-Speech Electron Application",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/paradocx96/Text-to-Speech-Application",
   "keywords": [
     "Electron",
     "quick",
