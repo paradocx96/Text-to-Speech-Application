@@ -2,7 +2,7 @@
   "name": "text-to-speech-application",
   "version": "1.0.0",
   "description": "Text-to-Speech Electron Application",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
